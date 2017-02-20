@@ -7,5 +7,6 @@ public class Test {
         int b = 6;
         boolean c = true;
         boolean d = false;
+        Object o = "11";
     }
 }
