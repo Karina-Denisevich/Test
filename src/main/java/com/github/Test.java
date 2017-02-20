@@ -9,8 +9,6 @@ public class Test {
         boolean d = false;
         Double dd = 3.2;
         Object t = "d";
-
-
         
     }
 }
