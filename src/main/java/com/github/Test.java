@@ -8,5 +8,6 @@ public class Test {
         boolean c = true;
         boolean d = false;
         String s = "s";
+        Double dd = 3.2;
     }
 }
